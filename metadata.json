@@ -1,0 +1,6 @@
+{
+  "name": "Psychology Summaries & Workspace Exporter",
+  "description": "Explore detailed summaries of classic psychology books, use Gemini to generate custom insights, and export them directly to your Google Docs or Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
